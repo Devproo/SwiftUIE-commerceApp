@@ -1,2 +1,2 @@
 # SwiftUIE-commerceApp
-with few error i will fix it later
+with few errors i will fix it later
